@@ -82,7 +82,7 @@ class PickerModule extends ReactContextBaseJavaModule implements ActivityEventLi
     private ReadableMap options;
 
     //Grey 800
-    private final String DEFAULT_TINT = "#424242";
+    private final String DEFAULT_TINT = "#424240";
     private String cropperActiveWidgetColor = DEFAULT_TINT;
     private String cropperStatusBarColor = DEFAULT_TINT;
     private String cropperToolbarColor = DEFAULT_TINT;
